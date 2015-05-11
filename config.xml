@@ -7,16 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Aplicacion uno </name>
+    <name>Aplicacion DOS </name>
 
     <description>
-        Aplicacion que muestra los modulos de la especialidad de programacion 
+        Aplicacion que muestra datos sobre la batalla del 5 de mayo EXAMEN
 	</description>
 
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Nombre del autor
+        Mercedes
     </author>
 	
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
